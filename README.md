@@ -6,8 +6,7 @@ This repository contains the official implementation of the forward kinematics m
 Huishi Huang*, Haozhe Wang*, Chongyu Fang, Mingge Yan, Ruochen Xu, Yiyuan Zhang, Zhanchi Wang, Fengkang Ying, Jun Liu, Cecilia Laschi, and Marcelo H. Ang Jr.
 
 *Equal contribution
-
-[[Paper](https://arxiv.org/pdf/2504.01507.pdf)][[Demo Video]] [![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15278644.svg)](https://doi.org/10.5281/zenodo.15278644)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.01507-b31b1b.svg)](https://arxiv.org/pdf/2504.01507.pdf) [[Demo Video]] [![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15278644.svg)](https://doi.org/10.5281/zenodo.15278644)
 
 This code was tested on MATLAB RXXXX\. Please clone this GitHub repo before proceeding with the installation.
 
