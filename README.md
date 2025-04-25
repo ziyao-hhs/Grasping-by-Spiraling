@@ -7,7 +7,7 @@ Huishi Huang*, Haozhe Wang*, Chongyu Fang, Mingge Yan, Ruochen Xu, Yiyuan Zhang,
 
 *Equal contribution
 
-[[Paper](https://arxiv.org/pdf/2504.01507.pdf)][[Demo Video]]
+[[Paper](https://arxiv.org/pdf/2504.01507.pdf)][[Demo Video]] [![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15278644.svg)](https://doi.org/10.5281/zenodo.15278644)
 
 This code was tested on MATLAB RXXXX\. Please clone this GitHub repo before proceeding with the installation.
 
