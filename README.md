@@ -3,7 +3,7 @@ This repository contains the official implementation of the forward kinematics m
 
 **Grasping by Spiraling: Reproducing Elephant Movements with Rigid-Soft Robot Synergy**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2504.01507-b31b1b.svg)](https://arxiv.org/pdf/2504.01507.pdf) [[Demo Video]] [![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15278644.svg)](https://doi.org/10.5281/zenodo.15278644)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.01507-b31b1b.svg)](https://arxiv.org/pdf/2504.01507.pdf) [[Demo Video]] [![CAD Model DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15278644.svg)](https://doi.org/10.5281/zenodo.15278644)
 
 ![teaser1](./readme_images/1_1.png)
 ![teaser2](./readme_images/1_2.png)
@@ -13,8 +13,6 @@ This code was tested on MATLAB R2024b\. Please clone this GitHub repo before pro
 ```bash
 git clone https://github.com/ziyao-hhs/Grasping-by-Spiraling.git
 ```
-
-## Required MATLAB toolboxes
 
 ## Citation
 If you find our work useful for your research, please consider citing the following BibTeX entry:
