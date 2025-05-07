@@ -13,6 +13,8 @@ This code was tested on MATLAB R2024b\. Please clone this GitHub repo before pro
 ```bash
 git clone https://github.com/ziyao-hhs/Grasping-by-Spiraling.git
 ```
+## Run the Code
+Enter the main.m. The inward bend, upward bend and twist can be obtained via different functions. 
 
 ## Citation
 If you find our work useful for your research, please consider citing the following BibTeX entry:
