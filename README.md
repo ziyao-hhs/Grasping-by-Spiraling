@@ -2,6 +2,11 @@
 This repository contains the official implementation of the forward kinematics model of the elephant-trunk-like soft manipulator from the paper:
 
 **Grasping by Spiraling: Reproducing Elephant Movements with Rigid-Soft Robot Synergy**
+Huishi Huang*, Haozhe Wang*, Chongyu Fang, Mingge Yan, Ruochen Xu, Zhanchi Wang, Yiyuan Zhang, Fengkang Ying, Jun Liu, Cecilia Laschi, and Marcelo H. Ang Jr.
+
+*Equal contributions
+
+**npj Robotics, 2025**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01507-b31b1b.svg)](https://arxiv.org/pdf/2504.01507.pdf) [[Demo Video]] [![CAD Model DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15278644.svg)](https://doi.org/10.5281/zenodo.15278644)
 
