@@ -25,12 +25,13 @@ Enter the main.m. The inward bend, upward bend and twist can be obtained via dif
 ## Citation
 If you find our work useful for your research, please consider citing the following BibTeX entry:
 ```
-@misc{huang2025spiralgrasping,
-      title={Grasping by Spiraling: Reproducing Elephant Movements with Rigid-Soft Robot Synergy}, 
-      author={Huishi Huang and Haozhe Wang and Chongyu Fang and Mingge Yan and Ruochen Xu and Yiyuan Zhang and Zhanchi Wang and Fengkang Ying and Jun Liu and Cecilia Laschi and Marcelo H. Ang Jr},
-      year={2025},
-      eprint={2504.01507},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2504.01507}, 
+@article{huang2025grasping,
+  title={Grasping by spiraling: reproducing elephant movements with rigid-soft robot synergy},
+  author={Huang, Huishi and Wang, Haozhe and Fang, Chongyu and Yan, Mingge and Xu, Ruochen and Zhang, Yiyuan and Wang, Zhanchi and Ying, Fengkang and Liu, Jun and Laschi, Cecilia and others},
+  journal={npj Robotics},
+  volume={3},
+  number={1},
+  pages={18},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
