@@ -9,7 +9,7 @@ Huishi Huang*, Haozhe Wang*, Chongyu Fang, Mingge Yan, Ruochen Xu, Zhanchi Wang,
 
 **npj Robotics, 2025**
 
-[[Paper](https://www.nature.com/articles/s44182-025-00038-z)] [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/PTp5jDlo7DI)] [![CAD Model DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15278644.svg)](https://doi.org/10.5281/zenodo.15278644)
+[[Paper](https://www.nature.com/articles/s44182-025-00038-z)] [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/PTp5jDlo7DI) [![CAD Model DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15278644.svg)](https://doi.org/10.5281/zenodo.15278644)
 
 ![teaser1](./readme_images/1_1.png)
 ![teaser2](./readme_images/1_2.png)
